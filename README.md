@@ -8,7 +8,7 @@ This project demonstrates CRUD operations, dynamic comment handling, comment lik
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo         :** [https://blog-site-with-comment-section.netlify.app/]
+🔗 **Live Demo         :** [https://madhan-03.github.io/blog-site/]
 
 🔗 **GitHub Repository :** [https://github.com/Madhan-03/blog-site.git]
 
